@@ -1,0 +1,27 @@
+{
+  "name": "pomotimer",
+  "version": "1.0.0",
+  "description": "Pomotimer is a simple app for a time management method based on 25-minute stretches of focused work broken up by five-minute breaks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pomodoro"
+  ],
+  "author": "Mirza Maulana Azmi",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.4",
+    "node-notifier": "^10.0.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neilsamaa/pomotimer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/neilsamaa/pomotimer/issues"
+  },
+  "homepage": "https://github.com/neilsamaa/pomotimer#readme"
+}
